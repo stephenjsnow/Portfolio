@@ -5,7 +5,7 @@ Welcome to my professional coding portfolio!
 
 
 
-Here is example of code I wrote for analyzing the [causes of traumatic brain injuries in children and yuoung adults](pie.md).
+Here is example of code I wrote for analyzing the [causes of traumatic brain injuries in children and yuoung adults](pdftry.pdf).
 This dataset was taken from [kaggle.com](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
 
 
