@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: Stephen J Snow
+description: My professional coding portfolio.
+show_downloads: true
+theme: jekyll-theme-cayman
