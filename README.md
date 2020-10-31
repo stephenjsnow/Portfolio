@@ -1,4 +1,6 @@
-
+onaltitle: Stephen J. Snow
+description: Professional Coding Portfolio
+theme: jekyll-theme-cayman
 # About #
 I am an undergraduate neuroscience student at Dalhousie University in Halifax, NS. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health.
 
