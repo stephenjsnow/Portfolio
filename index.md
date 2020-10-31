@@ -7,7 +7,7 @@ I am an undergraduate neuroscience student at Dalhousie University in Halifax, N
 ## Sample Code
 
 ### Neurological Trauma
-Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.ipynb). This is some futher analysis of the [root causes of traumatic brain injuries]() across six age groups. [Dataset](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
+Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). This is some futher analysis of the [root causes of traumatic brain injuries]() across six age groups. [Dataset](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
 
 
 ### Public Health
