@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/stephenjsnow/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About #
+I am an undergraduate neuroscience student at Dalhousie University in Halifax, NS. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health.
 
-### Markdown
+# Code Samples #
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Neurological Trauma
+Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.ipynb). This is some futher analysis of the [root causes of traumatic brain injuries]() across six age groups. [Dataset](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Public Health
+Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](Covid0.ipynb) in 5 major countries. This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.ipynb) in 5 major countries. [Dataset](https://www.kaggle.com/ashudata/covid19dataset)  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Contact:
+[StephenSnow@dal.ca](mailto:stephensnow@dal.ca)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephenjsnow/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
