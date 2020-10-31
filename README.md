@@ -1,6 +1,5 @@
-# Stephen J. Snow's Portfolio
-Welcome to my professional coding portfolio!
 
+# About #
 I am an undergraduate neuroscience student at Dalhousie University in Halifax, NS. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health.
 
 
