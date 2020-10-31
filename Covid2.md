@@ -1,3 +1,5 @@
+import matplotlib as plt
+import pandas as pd
 ```python
 df = pd.read_csv("COVID_Data_Basic.csv")
 ```
