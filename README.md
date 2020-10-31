@@ -12,7 +12,7 @@ This is some futher analysis of the [root cause of traumatic brain injuries acro
 Opensource dataset available from [kaggle.com](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
 
 
-Here is an example of code I wrote to visualize the [initial COVID-19 outbreak in 5 major countries](Covid1 (1).ipynb).
+Here is an example of code I wrote to visualize the [initial COVID-19 outbreak in 5 major countries](Covid1.ipynb).
 
 This analysis allows further eploration into the [average death rates in confirmed cases of COVID-19 in 5 major countries](Covid2.ipynb).   
 
