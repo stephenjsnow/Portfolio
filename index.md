@@ -11,7 +11,7 @@ Here is an example of code I wrote for analyzing the causes of [traumatic brain 
 
 
 ### Public Health
-Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](Covid0.ipynb) in 5 major countries. This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.md) in 5 major countries. [Dataset](https://www.kaggle.com/ashudata/covid19dataset)  
+Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) in 5 major countries. This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. [Dataset](https://www.kaggle.com/ashudata/covid19dataset)  
 
 
 
