@@ -1,3 +1,5 @@
 onaltitle: Stephen J. Snow
 description: Professional Coding Portfolio
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
