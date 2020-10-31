@@ -5,9 +5,9 @@ I am an undergraduate student at Dalhousie University in Halifax, NS.
      
      
      
-Here is example of code I wrote for analyzing the [causes of traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.ipynb).
+Here is example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.ipynb).
 
-This is some futher analysis of the [root cause of traumatic brain injuries across six age groups]().
+This is some futher analysis of the [root cause of traumatic brain injuries]() across six age groups.
 
 Opensource dataset available from [kaggle.com](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
 
