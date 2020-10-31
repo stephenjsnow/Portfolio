@@ -4,7 +4,7 @@
 ## About #
 I am an undergraduate neuroscience student at Dalhousie University in Halifax, NS. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health.
 
-## Code Samples #
+## Sample Code
 
 ### Neurological Trauma
 Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.ipynb). This is some futher analysis of the [root causes of traumatic brain injuries]() across six age groups. [Dataset](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi)
