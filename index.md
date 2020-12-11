@@ -2,9 +2,9 @@
 
 
 ## About
-I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in Halifax, NS. I will be graduating in May 2021, with a BSc in Psychology and a minor in Health Studies. Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of my research interests. Thanks for visiting!
+I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in Halifax, NS and I will be graduating in May 2021, with a BSc in Psychology and minor in Health Studies. Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of these interests. Thanks for visiting!
 
-## Sample Code*
+## Sample Code
 
 #### Neurological Trauma
 Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). This is some futher analysis of the [root causes of traumatic brain injuries](2020-10-29-163939.html) across four age groups. (Data borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi))
