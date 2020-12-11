@@ -26,7 +26,17 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 * PHYL 2041 -  [Human Neurophysiology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PHYL+2041)
 * PSYO 3093 - [Language and Literacy](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PSYO+3093)
 
-### Certificates
+### Datacamp Certificates
+* [Introduction to Python](introduction to python.pdf)
+* [Intermediate Python](intermediate python.pdf)
+* [pandas Foundations](pandas foundations.pdf)
+* [Introduction to Data Visualization in Python](intro to data vis dc.pdf)
+* [Biomedical Image Analysis in Python](biomedical imaging.pdf)
+* [Manipulating Dataframes with Python](manipulating df's dc.pdf)
+* [Merging Dataframes with Python](merging df's dc.pdf)
+* [Introduction to Git](intro to git dc.pdf)
+* [Introduction to Shell](intro to shell DC.pdf)
+
 
 ## Contact:
 [StephenSnow@dal.ca](mailto:stephensnow@dal.ca)
