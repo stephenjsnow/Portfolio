@@ -1,17 +1,17 @@
 # Welcome to my portfolio!
 
 
-## About #
+## About
 I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in Halifax, NS. I will be graduating in May 2021, with a BSc in Psychology and a minor in Health Studies. Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of my research interests. Thanks for visiting!
 
-## Sample Code
+## Sample Code*
 
-### Neurological Trauma
+#### Neurological Trauma
 Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). This is some futher analysis of the [root causes of traumatic brain injuries](2020-10-29-163939.html) across four age groups. (Data borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi))
 
 
-### Public Health
-Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) in 5 major countries. This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. (Data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset))
+#### Public Health
+Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) in 5 major countries. This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. (Data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset))  
 
 
 ## Relevant Courses and Certifications
@@ -40,6 +40,7 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 
 ## Contact:
 Pleas feel free to contact me via email with any questions!
+
 [StephenSnow@dal.ca](mailto:stephensnow@dal.ca)
 
 
