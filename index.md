@@ -39,7 +39,7 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 
 
 ## Contact:
-Pleas feel free to contact me via email with any questions!
+Please feel free to contact me via email with any questions!
 
 [StephenSnow@dal.ca](mailto:stephensnow@dal.ca)
 
