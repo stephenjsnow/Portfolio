@@ -17,14 +17,14 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 ## Relevant Courses and Certifications
 
 ### Courses
-NESC 2130 - [Intro to Cognitive Psychology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2130) 
-NESC 2470 - [Systems Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2470)
-NESC 2570 - [Cellular Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2570)
-NESC 3170 - [Hormones & Behaviour](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3170)
-NESC 3264 - [The Science of Sleep](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3264)
-NESC 3505 - [Neural Data Science](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505)
-PHYL 2041 -  [Human Neurophysiology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PHYL+2041)
-PSYO 3093 - [Language and Literacy](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PSYO+3093)
+* NESC 2130 - [Intro to Cognitive Psychology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2130) 
+* NESC 2470 - [Systems Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2470)
+* NESC 2570 - [Cellular Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2570)
+* NESC 3170 - [Hormones & Behaviour](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3170)
+* NESC 3264 - [The Science of Sleep](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3264)
+* NESC 3505 - [Neural Data Science](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505)
+* PHYL 2041 -  [Human Neurophysiology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PHYL+2041)
+* PSYO 3093 - [Language and Literacy](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PSYO+3093)
 
 ### Certificates
 
