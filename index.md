@@ -2,7 +2,7 @@
 
 
 ## About #
-I am an undergraduate neuroscience student at [Dalhousie University](https://www.dal.ca/) in Halifax, NS. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health.
+I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in Halifax, NS. I will be graduating in May 2021, with a BSc in Psychology and a minor in Health Studies. Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of my research interests. Thanks for visiting!
 
 ## Sample Code
 
@@ -39,6 +39,7 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 
 
 ## Contact:
+Pleas feel free to contact me via email with any questions!
 [StephenSnow@dal.ca](mailto:stephensnow@dal.ca)
 
 
