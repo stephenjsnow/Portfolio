@@ -17,6 +17,7 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 ## Relevant Courses and Certifications
 
 ### Courses
+* NESC 2000 - [Methods in Experimental Psychology and Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2000)
 * NESC 2130 - [Intro to Cognitive Psychology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2130) 
 * NESC 2470 - [Systems Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2470)
 * NESC 2570 - [Cellular Neuroscience](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+2570)
