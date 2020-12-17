@@ -6,13 +6,27 @@ I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in 
 
 ## Sample Code
 
+#### Biomedical Imaging
+
 #### Neurological Trauma
-Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). This is some futher analysis of the [root causes of traumatic brain injuries](2020-10-29-163939.html) across four age groups. (Data borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi))
+Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). 
+
+This is some futher analysis of the [root causes of traumatic brain injuries](2020-10-29-163939.html) across four age groups. This data is borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi))
 
 
 #### Public Health
-Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) in 5 major countries. This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. (Data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset))  
+This is code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) in 5 major countries. 
 
+This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. This data is borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset))  
+
+
+#### NESC 3505 - Neural Data Science Coursework
+This example was written to visualize the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
+
+
+
+    
+   
 
 ## Relevant Courses and Certifications
 
@@ -26,6 +40,7 @@ Here is an example of code I wrote to visualize the [initial COVID-19 outbreak](
 * NESC 3505 - [Neural Data Science](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=NESC+3505)
 * PHYL 2041 -  [Human Neurophysiology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PHYL+2041)
 * PSYO 3093 - [Language and Literacy](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PSYO+3093)
+
 
 ### Datacamp Certificates
 * [Introduction to Python](introduction to python.pdf)
