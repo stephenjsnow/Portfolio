@@ -11,6 +11,8 @@ This [example](Demo6.htm) uses masking while looping through a series of a singl
 
 This [example](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
+![GitHub Logo](headshot.png)
+Format: ![Alt Text](Assign_4_portfin.htm)
 
 #### Neurological Trauma
 Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). 
