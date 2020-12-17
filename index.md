@@ -10,7 +10,7 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 ## Sample Code
 
 #### Biomedical Imaging
-This [example](Demo6.htm) uses masks while looping through a series of a single patient's MRI scan to highlight their recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
+This [example](Demo6.htm) uses masks while looping through a series of MRI scans to highlight a patient's recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
 
 This [example](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
