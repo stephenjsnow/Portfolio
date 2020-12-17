@@ -2,7 +2,7 @@
 
 
 ## About
-I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in Halifax, NS and I will be graduating in May 2021, with a BSc in Psychology and minor in Health Studies. Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of these interests. Thanks for visiting!
+Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of these interests. Thanks for visiting!
 
 ## Sample Code
 
@@ -24,8 +24,8 @@ This is code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) i
 This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. This data is borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
 
-
-
+<br> <br>
+<br> <br>
     
    
 
