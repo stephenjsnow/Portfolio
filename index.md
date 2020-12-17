@@ -7,7 +7,7 @@ I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in 
 ## Sample Code
 
 #### Biomedical Imaging
-This (example)[Demo-6.htm] uses masking and the python package *imageio* to loop through a series of a single patient's MRI scan to highlight their recently diagnosed glioblastoma.
+This [example](Demo-6.htm) uses masking and the python package *imageio* to loop through a series of a single patient's MRI scan to highlight their recently diagnosed glioblastoma.
 
 #### Neurological Trauma
 Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). 
