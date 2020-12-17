@@ -7,22 +7,22 @@ I am an undergraduate student at [Dalhousie University](https://www.dal.ca/) in 
 ## Sample Code
 
 #### Biomedical Imaging
-This [example](Demo-6.htm) uses masking and the python package *imageio* to loop through a series of a single patient's MRI scan to highlight their recently diagnosed glioblastoma.
+This [example](Demo-6.htm) uses masking and the python package *imageio* to loop through a series of a single patient's MRI scan to highlight their recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
+
+This [example](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
+
 
 #### Neurological Trauma
 Here is an example of code I wrote for analyzing the causes of [traumatic brain injuries leading to death in children and young adults](2020-10-29-230913.htm). 
 
-This is some futher analysis of the [root causes of traumatic brain injuries](2020-10-29-163939.html) across four age groups. This data is borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi))
+This is some futher analysis of the [root causes of traumatic brain injuries](2020-10-29-163939.html) across four age groups. This sample uses data borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
 
 
 #### Public Health
 This is code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) in 5 major countries. 
 
-This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. This data is borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset))  
+This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. This data is borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
-
-#### NESC 3505 - Neural Data Science Coursework
-This [example](Assign_4_portfin.htm) was written to visualize the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
 
 
