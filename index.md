@@ -1,8 +1,11 @@
-# Welcome to my portfolio!
-
+# Portfolio
+<br> <br>
+    
 
 ## About
 Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dalhousie's [Biosignal Lab](https://www.dal.ca/sites/biosignal-lab.html), which uses advanced imaging technologies to non-invasively study activity in the brain. My research interests lie primarily in the areas of neuroimaging techniques, neurological trauma and public health. Below are some samples of python code I have written for the analysis and visualization of these interests. Thanks for visiting!
+
+<br> <br>
 
 ## Sample Code
 
@@ -24,7 +27,6 @@ This is code I wrote to visualize the [initial COVID-19 outbreak](Covid1.html) i
 This code allows further analysis and exploration into the [average death rates in confirmed cases of COVID-19](Covid2.html) in 5 major countries. This data is borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
 
-<br> <br>
 <br> <br>
     
    
@@ -54,7 +56,8 @@ This code allows further analysis and exploration into the [average death rates 
 * [Introduction to Git](intro to git dc.pdf)
 * [Introduction to Shell](intro to shell DC.pdf)
 
-
+<br> <br>
+    
 ## Contact:
 Please feel free to contact me via email with any questions!
 
