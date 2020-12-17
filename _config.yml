@@ -1,8 +1,8 @@
 title: [Stephen J. Snow]
 onaltitle: Stephen Snow
 description: Coding Portfolio
-theme: jekyll-theme-minimal
-#remote_theme: chrisrhymes/bulma-clean-theme
+#theme: jekyll-theme-minimal
+remote_theme: chrisrhymes/bulma-clean-theme
 
 github:
   is_project_page: false
