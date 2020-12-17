@@ -5,10 +5,7 @@ description:
   Welcome to my portfolio!
   <br> <br>
   I am an undergraduate student at <a href-"https://www.dal.ca/">Dalhousie University</a> in Halifax, NS and I will be graduating in May 2021, with a BSc in Psychology and minor in Health Studies.
-  <br> <br>
-  __Contact:__
-  Please feel free to contact me via email with any questions!
-  [StephenSnow@dal.ca](mailto:stephensnow@dal.ca)
+
 
 theme: jekyll-theme-minimal
 logo: headshot.png
