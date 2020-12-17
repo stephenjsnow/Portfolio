@@ -1,7 +1,8 @@
 title: [Stephen J. Snow]
 onaltitle: Stephen Snow
 description: Coding Portfolio
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+skin: "contrast"
 
 github:
   is_project_page: false
