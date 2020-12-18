@@ -10,16 +10,16 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 ## Sample Code
 
 #### Biomedical Imaging
-This [example](Demo6.htm) uses masks while looping through a series of MRI scans to highlight a patient's recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
+This [sample](Demo6.htm) uses masks while looping through a series of MRI scans to highlight a patient's recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
 
-This [example](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
+This [sample](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
 
 #### Neurological Trauma
-This [example](pie_f.htm) analyzes the causes of traumatic brain injuries leading to death in children and young adults. 
+This [sample](pie_f.htm) analyzes the causes of traumatic brain injuries leading to death in children and young adults. 
 
 
-This [example](bar_f.htm) provides further analysis of the root causes of traumatic brain injuries across four age groups. This sample uses data borrowed from [Brain Injury Awareness U.S.A.](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness) and can be accessed [here](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
+This [sample](bar_f.htm) provides further analysis of the root causes of traumatic brain injuries across four age groups. This sample uses data borrowed from [Brain Injury Awareness U.S.A.](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness) and can be accessed [here](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
 
 
 #### Public Health
