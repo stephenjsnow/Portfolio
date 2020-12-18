@@ -38,8 +38,8 @@ This [sample](bar_f.htm) provides further analysis of the root causes of traumat
 
 ## Public Health
 
-#### [Initial Global Covid Outbreak](COVID-time-fin.html)
-This [sample](COVID-time-fin.html) illustrates the initial COVID-19 outbreak in 5 major countries. 
+#### [Initial Global Covid Outbreak](COVID-time-fin.htm)
+This [sample](COVID-time-fin.htm) illustrates the initial COVID-19 outbreak in 5 major countries. 
 
 <br> <br>
 
