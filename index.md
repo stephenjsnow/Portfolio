@@ -17,7 +17,8 @@ This [sample](Demo6.htm) uses masks while looping through a series of MRI scans 
 
 This [sample](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
-[Neuronal Heat Maps](heatmap.png)
+[Neuronal Heat Maps](Assign_4_portfin.htm)
+<img src="heatmap.png?raw=true"/>
 
 #### Neurological Trauma
 This [sample](pie_f.htm) analyzes the causes of traumatic brain injuries leading to death in children and young adults. 
