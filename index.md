@@ -9,15 +9,15 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 
 ## Sample Code
 
+<br> 
+
 ### Neuroimaging
 
 #### [MRI masking](Demo-6final.htm)
 
 This [sample](Demo-6final.htm) uses masks while looping through a series of MRI scans to highlight a patient's recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
 
-
-
-<br> <br>
+<br> 
 
 #### [Single Neuron Heat Maps](Assign_4_portfin.htm)
 
@@ -45,7 +45,7 @@ This [sample](Covid1.html) illustrates the initial COVID-19 outbreak in 5 major 
 
 <br> <br>
 
-### [Death Rates in Major Countries](Covid2.html)
+#### [Death Rates in Major Countries](Covid2.html)
 This [sample](Covid2.html) allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 5 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
 
