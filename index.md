@@ -43,8 +43,8 @@ This [sample](COVID-time-fin.htm) illustrates the initial COVID-19 outbreak in 5
 
 <br> <br>
 
-#### [Death Rates in Major Countries](Covid2.html)
-This [sample](Covid2.html) allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 5 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
+#### [Death Rates in Major Countries](Covid2-fin.html)
+This [sample](Covid2-fin.html) allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 5 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
 
 ---
