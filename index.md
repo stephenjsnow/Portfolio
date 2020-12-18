@@ -35,7 +35,7 @@ This sample uses masks while looping through a series of MRI scans to highlight 
 This sample visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
 
-### [Topographic Scalp Maps](Portfolio,EEG.htm)
+### [Topographic Scalp Maps](Portfolio-EEG.htm)
 This sample uses the python package MNE to visualize the response to semantic violations recorded through EEG. This example uses nested loops to work with complex EEG data. This sample uses data collected by [Dr. Aaron Newman](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/aaron-newman.html) of Dalhousie University.
 
 <br> <br>
