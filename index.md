@@ -7,11 +7,9 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 
 ---
 
-## Sample Code
+# Sample Code
 
-<br> 
-
-### Neuroimaging
+## Neuroimaging
 
 #### [MRI masking](Demo-6final.htm)
 
@@ -26,7 +24,7 @@ This [sample](Assign_4_portfin.htm) visualizes the action potentials of a single
 
 <br> <br>
 
-### Neurological Trauma
+## Neurological Trauma
 
 #### [Brain Injuries in Children and Young Adults](pie_f.htm)
 This [sample](pie_f.htm) analyzes the causes of traumatic brain injuries leading to death in children and young adults. 
@@ -38,7 +36,7 @@ This [sample](bar_f.htm) provides further analysis of the root causes of traumat
 
 <br> <br>
 
-### Public Health
+## Public Health
 
 #### [Initial Global Covid Outbreak](Covid1.html)
 This [sample](Covid1.html) illustrates the initial COVID-19 outbreak in 5 major countries. 
@@ -65,6 +63,7 @@ This [sample](Covid2.html) allows further analysis and exploration into the aver
 * PHYL 2041 -  [Human Neurophysiology](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PHYL+2041)
 * PSYO 3093 - [Language and Literacy](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=PSYO+3093)
 
+<br> <br>
 
 ### Datacamp Certificates
 * [Introduction to Python](introduction to python.pdf)
