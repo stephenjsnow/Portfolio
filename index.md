@@ -9,17 +9,28 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 
 # Sample Code
 
+## Public Health
+
+#### [Initial Global Covid Outbreak](COVID-time-fin.htm)
+This [sample](COVID-time-fin.htm) illustrates the initial COVID-19 outbreak in 5 major countries. 
+
+<br> <br>
+
+#### [Death Rates in Major Countries](Covid2-fin.htm)
+This [sample](Covid2-fin.htm) allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 5 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
+<br> <br>
+
 ## Neuroimaging
 
 #### [MRI masking](Demo-6final.htm)
 
 This [sample](Demo-6final.htm) uses masks while looping through a series of MRI scans to highlight a patient's recently diagnosed glioblastoma. This sample uses data collected by the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/display/Public/Brain-Tumor-Progression).
 
-<br> 
+<br> <br>
 
-#### [Single Neuron Heat Maps](Assign_4_portfin.htm)
+#### [Single Neuron Heat Maps](Assign_4_port_fin.htm)
 
-This [sample](Assign_4_portfin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
+This [sample](Assign_4_port_fin.htm) visualizes the action potentials of a single neuron recording. This example uses nested for loops, various other pandas functions and matplotlib to create heat maps to visualize the data across all experimental conditions. This sample uses data collected by [Dr. Nathan Crowder](https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff/our-faculty/nathan-crowder.html) of Dalhousie University.
 
 
 <br> <br>
@@ -33,18 +44,6 @@ This [sample](pie_f.htm) analyzes the causes of traumatic brain injuries leading
 
 #### [Brain Injuries Across All Age Groups](bar_f.htm)
 This [sample](bar_f.htm) provides further analysis of the root causes of traumatic brain injuries across four age groups. These samples use data borrowed from [Brain Injury Awareness U.S.A.](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness) and can be accessed [here](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
-
-<br> <br>
-
-## Public Health
-
-#### [Initial Global Covid Outbreak](COVID-time-fin.htm)
-This [sample](COVID-time-fin.htm) illustrates the initial COVID-19 outbreak in 5 major countries. 
-
-<br> <br>
-
-#### [Death Rates in Major Countries](Covid2-fin.htm)
-This [sample](Covid2-fin.htm) allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 5 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
 
 ---
