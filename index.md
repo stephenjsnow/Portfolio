@@ -19,7 +19,7 @@ This [example](Assign_4_portfin.htm) visualizes the action potentials of a singl
 This [example](pie_f.htm) analyzes the causes of traumatic brain injuries leading to death in children and young adults. 
 
 
-This [example](bar_f.htm) provides further analysis of the root causes of traumatic brain injuries across four age groups. This sample uses data borrowed from an opensource dataset for [traumatic brain injuries](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
+This [example](bar_f.htm) provides further analysis of the root causes of traumatic brain injuries across four age groups. This sample uses data borrowed from [Brain Injury Awareness U.S.A.](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness) and can be accessed [here](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
 
 
 #### Public Health
