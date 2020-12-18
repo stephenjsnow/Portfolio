@@ -12,7 +12,7 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 
 ## Public Health
 
-### [Initial Global Covid Outbreak](Covid1-fin-fin.htm)
+### [Initial Global Covid Outbreak](Covid1_fin_fin.htm)
 This sample illustrates the initial COVID-19 outbreak in 5 major countries. 
 
 
