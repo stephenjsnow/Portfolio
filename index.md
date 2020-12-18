@@ -8,6 +8,7 @@ Under the direction of Dr. Tim Bardouille, I have spent time volunteering in Dal
 ---
 
 # Sample Code
+<br> <br>
 
 ## Public Health
 
@@ -43,7 +44,7 @@ This [sample](pie_f.htm) analyzes the causes of traumatic brain injuries leading
 #### [Brain Injuries Across All Age Groups](bar_f.htm)
 This [sample](bar_f.htm) provides further analysis of the root causes of traumatic brain injuries across four age groups. These samples use data borrowed from [Brain Injury Awareness U.S.A.](https://www.biausa.org/public-affairs/public-awareness/brain-injury-awareness) and can be accessed [here](https://www.kaggle.com/jessemostipak/traumatic-brain-injury-tbi).
 
-
+<br> <br>
 ---
    
 
