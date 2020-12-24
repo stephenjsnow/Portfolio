@@ -18,7 +18,7 @@ This sample illustrates the initial COVID-19 outbreak in 5 major countries.
 
 
 ### [Death Rates in Major Countries](Covid2-fin.htm)
-This sample allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 5 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
+This sample allows further analysis and exploration into the average death rates in confirmed cases of COVID-19 in 8 major countries. These samples use data borrowed from an opensource dataset for [COVID-19](https://www.kaggle.com/ashudata/covid19dataset).  
 
 <br> <br>
 
